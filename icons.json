@@ -1,0 +1,162 @@
+{
+    "name": "EMBY",
+    "description": "GitHub: @xiaobai",
+    "icons": [
+        {
+            "name": "AlphaTV",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/AlphaTV.png"
+        },
+        {
+            "name": "AuroraMedia",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/AuroraMedia.png"
+        },
+        {
+            "name": "AWA-SF 1",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/AWA-SF 1.png"
+        },
+        {
+            "name": "AWA-SF",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/AWA-SF.png"
+        },
+        {
+            "name": "AWA",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/AWA.png"
+        },
+        {
+            "name": "CC",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/CC.png"
+        },
+        {
+            "name": "Charon TV",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Charon TV.png"
+        },
+        {
+            "name": "Charon",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Charon.png"
+        },
+        {
+            "name": "JMS",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/JMS.png"
+        },
+        {
+            "name": "Levilde Luminia",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Levilde Luminia.png"
+        },
+        {
+            "name": "LOSER",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/LOSER.png"
+        },
+        {
+            "name": "Lyrebird 1",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Lyrebird 1.png"
+        },
+        {
+            "name": "Lyrebird",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Lyrebird.png"
+        },
+        {
+            "name": "Magpie",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Magpie.png"
+        },
+        {
+            "name": "MICU Media",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/MICU Media.png"
+        },
+        {
+            "name": "MisakaF",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/MisakaF.png"
+        },
+        {
+            "name": "Misty",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Misty.png"
+        },
+        {
+            "name": "Mooncake",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Mooncake.png"
+        },
+        {
+            "name": "Nebula-Media",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Nebula-Media.png"
+        },
+        {
+            "name": "Nya Media",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Nya Media.png"
+        },
+        {
+            "name": "peach",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/peach.png"
+        },
+        {
+            "name": "photo_2024-09-22_20-24-47",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/photo_2024-09-22_20-24-47.png"
+        },
+        {
+            "name": "PiliPili (1)",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/PiliPili (1).png"
+        },
+        {
+            "name": "PiliPili (2)",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/PiliPili (2).png"
+        },
+        {
+            "name": "Pornemby",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Pornemby.png"
+        },
+        {
+            "name": "Tanhua",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Tanhua.png"
+        },
+        {
+            "name": "TembyGroup",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/TembyGroup.png"
+        },
+        {
+            "name": "Terminus",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/Terminus.png"
+        },
+        {
+            "name": "二刺螈emby 1",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/二刺螈emby 1.png"
+        },
+        {
+            "name": "二次元emby",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/二次元emby.png"
+        },
+        {
+            "name": "叔服",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/叔服.png"
+        },
+        {
+            "name": "大V",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/大V.png"
+        },
+        {
+            "name": "探花TV",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/探花TV.png"
+        },
+        {
+            "name": "映月",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/映月.png"
+        },
+        {
+            "name": "牢大",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/牢大.png"
+        },
+        {
+            "name": "纸片人",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/纸片人.png"
+        },
+        {
+            "name": "银河",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/银河.png"
+        },
+        {
+            "name": "飞跃彩虹",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/飞跃彩虹.png"
+        },
+        {
+            "name": "鹅",
+            "url": "https://raw.githubusercontent.com/2724323809/XIAOBAIS/main/icons/鹅.png"
+        }
+    ]
+}
